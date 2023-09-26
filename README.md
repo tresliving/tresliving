@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tresliving
 - 👀 I’m interested in programming, photography, and art
-- 🌱 I’m currently learning management information systems & international business
-- 💞️ I’m looking to collaborate on frontend projects
+- 🌱 I’m currently learning web development and 3D modeling
+- 💞️ I’m looking to collaborate on anything fun and meaningful
 - 📫 How to reach me : tresliving.com
 
 <!---
