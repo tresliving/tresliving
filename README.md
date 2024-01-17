@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tresliving
-- 👀 I’m interested in programming, design, and photography.
+- 👀 I’m interested in programming and design
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to contribute to meaningful and impactful projects
 - 📫 How to reach me: tresliving.com
